@@ -2,6 +2,7 @@ There are eight planets in the Solar System, which are in increasing distance fr
 Mercury.
 Venus.
 Earth.
+Moon.
 Mars.
 Jupiter.
 Saturn.
